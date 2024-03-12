@@ -4,10 +4,10 @@ config-sparse:
       config:
         extra-map-directory:
           contents:
-            suggested-value: ucp/plugins/AI-Tournament-Maps-1.0.0/maps
+            suggested-value: ucp/plugins/AI-Tournament-Maps-1.0.0/resources/maps
         extra-map-extreme-directory:
           contents:
-            suggested-value: ucp/plugins/AI-Tournament-Maps-1.0.0/maps
+            suggested-value: ucp/plugins/AI-Tournament-Maps-1.0.0/resources/maps
   plugins: {}
 meta:
   version: 1.0.0
