@@ -1,0 +1,13 @@
+config-sparse:
+  modules:
+    maploader:
+      config:
+        extra-map-directory:
+          contents:
+            suggested-value: ucp/plugins/AI-Tournament-Maps-1.0.0/maps
+        extra-map-extreme-directory:
+          contents:
+            suggested-value: ucp/plugins/AI-Tournament-Maps-1.0.0/maps
+  plugins: {}
+meta:
+  version: 1.0.0

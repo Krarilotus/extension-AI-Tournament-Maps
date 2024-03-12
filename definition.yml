@@ -1,0 +1,8 @@
+name: "AI-Tournament-Maps"
+display-name: "AI Tournament Maps"
+author: Krarilotus, Crusader Pilaw, Nevikov, Hacksülze
+version: 1.0.0
+dependencies:
+  maploader: ^1.0.0
+  framework: ^3.0.0
+  frontend: ^1.0.0
